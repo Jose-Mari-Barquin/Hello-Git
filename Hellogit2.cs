@@ -9,6 +9,7 @@ internal class Program
         public void main()
         {
             const XX = 50;
+            const XX = 5000;
         }
     }
 }
