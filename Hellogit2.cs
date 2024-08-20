@@ -2,6 +2,7 @@ internal class Program
 {
     /// <summary>
     /// print hello git3 v2
+    /// New Hello GitHub
     /// </summary>
     /// <param name="args"></param>
     private static void Main(string[] args)
